@@ -6,7 +6,7 @@
 This function takes two arguments: a quantity and a singular noun. If the quantity entered is 1, it will return a string containing the singular form, otherwise it will return the plural form based on common rules.
 
 ## Examples
-`plurality_check(3, 'cat') # "cats"`
+`plurality_check(3, 'cat') # "cats"`  
 `plurality_check(1, 'dog') # "dog"`
 
 ## Release History
